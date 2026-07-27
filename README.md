@@ -6,7 +6,7 @@ A cloud-deployed uptime monitoring platform — built in public, phase by phase,
 
 
 
-##### **Status: In progress**
+### **Status: In progress**
 
 
 
@@ -14,7 +14,7 @@ A cloud-deployed uptime monitoring platform — built in public, phase by phase,
 
 
 
-##### **What this is**
+### **What this is**
 
 
 
@@ -26,7 +26,7 @@ Sentinel checks a list of URLs on an interval, tracks uptime and response time o
 
 
 
-##### **Why I built this**
+### **Why I built this**
 
 
 
@@ -34,7 +34,7 @@ I am very passionate about building and creating projects that strengthen my tec
 
 
 
-##### **Roadmap**
+### **Roadmap**
 
 
 
@@ -58,29 +58,22 @@ I am very passionate about building and creating projects that strengthen my tec
 
 
 
-##### **Tech Stack**
+### **Tech Stack**
 
 
 
-Language: Python
-
-Database: SQLite
-
-Web framework: Flask
-
-Containerization: Docker
-
-CI/CD: GitHub Actions
-
-Infrastructure: Terraform
-
-Cloud: AWS (EC2->ECS)
-
-Observability: Prometheus/Grafana
+* Language: Python
+* Database: SQLite
+* Web framework: Flask
+* Containerization: Docker
+* CI/CD: GitHub Actions
+* Infrastructure: Terraform
+* Cloud: AWS (EC2->ECS)
+* Observability: Prometheus/Grafana
 
 
 
-##### **What I learned**
+### **What I learned**
 
 
 
