@@ -1,4 +1,4 @@
-Sentinel
+# **Sentinel**
 
 
 
@@ -6,11 +6,15 @@ A cloud-deployed uptime monitoring platform — built in public, phase by phase,
 
 
 
-Status: In progress — Phase 0 complete (Pi provisioned and hardened), Phase 1 starting (core Python monitor + SQLite)
+##### **Status: In progress**
 
 
 
-What this is
+&#x09;Phase 0 complete (Pi provisioned and hardened), Phase 1 starting (core Python monitor + 	SQLite)
+
+
+
+##### **What this is**
 
 
 
@@ -22,7 +26,7 @@ Sentinel checks a list of URLs on an interval, tracks uptime and response time o
 
 
 
-Why I built this
+##### **Why I built this**
 
 
 
@@ -30,31 +34,31 @@ I am very passionate about building and creating projects that strengthen my tec
 
 
 
-Roadmap
+##### **Roadmap**
 
 
 
-&#x20;(DONE) Phase 0 — Pi provisioned, SSH hardened, toolchain installed
+&#x20;(DONE) Phase 0 - Pi provisioned, SSH hardened, toolchain installed
 
-&#x20;	Phase 1 — Core monitor (Python + SQLite, retry logic, tests)
+&#x20;	Phase 1 - Core monitor (Python + SQLite, retry logic, tests)
 
-&#x20;	Phase 2 — systemd service + health endpoint
+&#x20;	Phase 2 - systemd service + health endpoint
 
-&#x20;	Phase 3 — Dashboard
+&#x20;	Phase 3 - Dashboard
 
-&#x20;	Phase 4 — Containerization
+&#x20;	Phase 4 - Containerization
 
-&#x20;	Phase 5 — CI/CD
+&#x20;	Phase 5 - CI/CD
 
-&#x20;	Phase 6 — Cloud deployment (Terraform + AWS)
+&#x20;	Phase 6 - Cloud deployment (Terraform + AWS)
 
-&#x20;	Phase 7 — Observability (Prometheus/Grafana)
+&#x20;	Phase 7 - Observability (Prometheus/Grafana)
 
-&#x20;	Phase 8 — Portfolio packaging
+&#x20;	Phase 8 - Portfolio packaging
 
 
 
-Tech Stack
+##### **Tech Stack**
 
 
 
@@ -76,7 +80,7 @@ Observability: Prometheus/Grafana
 
 
 
-What I learned
+##### **What I learned**
 
 
 
@@ -85,6 +89,4 @@ I'll do a fully conclusive summary of what I learned after this project is finis
 
 
 Please see DEVLOG.md for the raw day-by-day journey I had while developing sentinel, I swear its fun and not boring at all...
-
-
 
