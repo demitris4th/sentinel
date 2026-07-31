@@ -1,16 +1,22 @@
-# **Sentinel**
+# **sentinel** 
 
 
 
-A cloud-deployed uptime monitoring platform — built in public, phase by phase, as a portfolio project for cloud/DevOps engineering roles.
+A cloud-deployed uptime monitoring platform on the Raspberry Pi, if you have any home servers or webservers that needs to be monitored then sentinel is your go-to!
 
 
 
-### **Status: In progress**
+### **Status: Paused**
 
 
 
-&#x09;Phase 0 complete (Pi provisioned and hardened), Phase 1 starting (core Python monitor + 	SQLite)
+Phase 0 complete, Phase 1 next (core Python monitor + SQLite)
+
+
+
+I am currently building a more security-focused project so this project is currently on pause
+
+
 
 
 
